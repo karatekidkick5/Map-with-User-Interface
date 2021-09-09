@@ -4,7 +4,7 @@ Task was too:
 
 - *Create a Map of numbers using a 2d list.
 
-- *Create a dictionary that associates the map values with terrain types : {0:"forrest"}
+- *Create a dictionary that associates the map values with terrain types : {0:"forest"}
 
 - *Store the users current location and update the output to display a description based on where they are on the map. (Use dictionary val)
 
